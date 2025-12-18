@@ -18,9 +18,9 @@
 
 ---
 
-### [Welcome Home Gentlemen!](#)
+### [Welcome Home Gentlemen!](https://doomsdayproductions.studio)
 
-```matrix.doomsdayproductions.studio```
+Matrix URL Domain: ```matrix.doomsdayproductions.studio```
 
 Private, self-hosted Matrix server is officially live.
 
