@@ -15,14 +15,11 @@
 ---
 
 ### [Welcome Home Gentlemen!](https://doomsdayproductions.studio)
+Follow us & Contribute with the community
 
-Matrix URL Domain: ```matrix.doomsdayproductions.studio```
-[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](matrix.doomsdayproductions.studio)
-Private, self-hosted Matrix server is officially live.
-
-Please bear with us over the next 24–48 hours as we set up a custom bridge system to integrate multiple groups and channels.
-
----
-## Helpful links
+| Client  | Link |
+|--------|------|
+| Element | [![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)](https://matrix.doomsdayproductions.studio) |
+| Matrix  | [![Matrix](https://img.shields.io/badge/matrix-%23000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.doomsdayproductions.studio) |
 
 [What is Matrix?](https://matrix.org/) • [What is Element?](https://element.io/en) • [How do I join?](https://wiki.mozilla.org/Matrix:Join)
