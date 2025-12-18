@@ -1,6 +1,6 @@
 # Simple Checker
 
-> RUN ON RDP
+> ☢️ ⚠️ ☠️ RUN ON RDP ☠️ ⚠️ ☢️
 
 ---
 ## Instructions
