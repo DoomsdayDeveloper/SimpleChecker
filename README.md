@@ -1,8 +1,22 @@
+| Our  | Chats |
+|--------|------|
+| Element | [![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)](https://matrix.doomsdayproductions.studio) | 
+| Matrix  | [![Matrix](https://img.shields.io/badge/matrix-%23000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.doomsdayproductions.studio) |
+
+[What is Matrix?](https://matrix.org/) • [What is Element?](https://element.io/en) • [How do I join?](https://wiki.mozilla.org/Matrix:Join)
+
 # Simple Checker
+
+---
+
+
+https://github.com/user-attachments/assets/da8ac5a0-3282-4ce4-96ae-582f3b3b54aa
+
+
+---
 
 > ☢️ ⚠️ ☠️ RUN ON RDP ☠️ ⚠️ ☢️
 
----
 ## Instructions
 
 1. Unpack the archive to a convenient folder.  
@@ -12,14 +26,6 @@
 
 - Archive password: [t.me/rawret]
 ---
----
 
-### [Welcome Home Gentlemen!](https://doomsdayproductions.studio)
-Follow us & Contribute with the community
-
-| Client  | Link |
-|--------|------|
-| Element | [![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)](https://matrix.doomsdayproductions.studio) |
-| Matrix  | [![Matrix](https://img.shields.io/badge/matrix-%23000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.doomsdayproductions.studio) |
 
 [What is Matrix?](https://matrix.org/) • [What is Element?](https://element.io/en) • [How do I join?](https://wiki.mozilla.org/Matrix:Join)
