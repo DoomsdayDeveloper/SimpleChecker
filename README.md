@@ -21,9 +21,7 @@
 
 ---
 
-## Welcome
-
-### Welcome Home Gentlemen!
+[Welcome Home Gentlemen!](#)
 
 **matrix.doomsdayproductions.studio**
 
@@ -32,9 +30,6 @@ Private, self-hosted Matrix server is officially live.
 Please bear with us over the next 24–48 hours as we set up a custom bridge system to integrate multiple groups and channels.
 
 ---
+## Helpful links
 
-## What is Matrix?
-
-- Matrix: https://matrix.org/
-- Element: https://element.io/en
-- How to join: https://wiki.mozilla.org/Matrix:Join
+[What is Matrix?](https://matrix.org/) • [What is Element?](https://element.io/en) • [How do I join?](https://wiki.mozilla.org/Matrix:Join)
