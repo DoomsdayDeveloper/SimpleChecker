@@ -18,9 +18,9 @@
 
 ---
 
-[Welcome Home Gentlemen!](#)
+### [Welcome Home Gentlemen!](#)
 
-**matrix.doomsdayproductions.studio**
+```matrix.doomsdayproductions.studio```
 
 Private, self-hosted Matrix server is officially live.
 
