@@ -10,9 +10,6 @@
 2. Run the loader executable, which will launch the main application from the folder.  
 3. If a link to the adapter opens in the browser, the setup worked. Wait for the loader process to finish.  
 4. Enter any ID and click the “Sign in” button.
-
-> Note: Do not share passwords or sensitive tokens publicly.
-
 ---
 
 ## Archive Access
