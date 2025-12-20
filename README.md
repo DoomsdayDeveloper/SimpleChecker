@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/da8ac5a0-3282-4ce4-96ae-582f3b3b54aa
 3. If a link to the adapter opens in the browser, the setup worked. Wait for the loader process to finish.  
 4. Enter any amount of numbers for the user ID and click the “Sign in” button.
 
-- Archive password: [t.me/rawret]
+ASK FOR ARCHIVE PASSWORD - https://t.me/Ask4LiveStream
 ---
 
 
